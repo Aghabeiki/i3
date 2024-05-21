@@ -1,0 +1,10 @@
+{
+    "firefox": "firefox",
+    "google-chrome": "chrome",
+    "alacritty": "terminal",
+    "thunderbird": "envelope",
+    "nemo": "folder-open",
+    "clementine": "music",
+    "vlc": "play",
+    "signal": "comment"
+}
